@@ -14,7 +14,7 @@
 <a href="https://github.com/R-o-d-r-i-g-o" target="_blank">
   <img align="center" src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white style="margin-bottom: 5px;" /> 
 </a>
-<a href="https://www.linkedin.com/in/rodrigo-marques-ribeiro-98746b217/" target="_blank">
+<a href="https://www.linkedin.com/in/rodolfomarquesribeiro/" target="_blank">
   <img align="center" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" /> 
 </a>
 <a href="" target="_blank">
