@@ -8,28 +8,20 @@
 
 
 <div align="center" style="display: inline_block">
- <a href="">
-    <img align="center" src=https://img.shields.io/badge/Instagram-d9408a?style=for-the-badge&logo=Instagram&logoColor=white style="margin-bottom: 5px;"/>
-  </a>
-<a href="https://github.com/R-o-d-r-i-g-o" target="_blank">
+
+<a href="https://github.com/RodolfoMRibeiro" target="_blank">
   <img align="center" src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white style="margin-bottom: 5px;" /> 
 </a>
-<a href="https://www.linkedin.com/in/rodolfomarquesribeiro/" target="_blank">
+<a href="https://www.linkedin.com/in/rodolfomr" target="_blank">
   <img align="center" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" /> 
 </a>
-<a href="" target="_blank">
-  <img align="center" src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white style="margin-bottom: 5px;"" target="_blank">
-</a> 
-<a href = "mailto:rodrigomarqribeiro@gmail.com">
+<a href = "mailto:rodolfomarqribeiro@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin-bottom: 5px;" target="_blank">
 </a>
-<a href="https://web.facebook.com/profile.php?id=100078218179127">
-  <img align="center" src="https://img.shields.io/badge/Facebook-0178f8?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 5px;" target="_blank"/>
-  </a>
   
   <div align="center"> <br>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=RodolfoMRibeiro&left_color=green&right_color=red)
+![Visitors](https://visitor_badge.deta.dev/?id=RodolfoMRibeiro)
 </div>
 
 </div>
@@ -56,7 +48,7 @@
 
                    
 
-  <a href="https://github.com/R-o-d-r-i-g-o">
+  <a href="https://github.com/RodolfoMRibeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodolfoMRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoMRibeiro&layout=compact&langs_count=7&theme=tokyonight"/>
