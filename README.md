@@ -34,7 +34,7 @@
 <p align="left">
 
 - 🔭 I’m currently working on `Q2pay` <br> 
-- 🌱 I’m currently learning `REACT` and `NODE` <br> 
+- 🌱 I’m currently learning `Azure Cloud Computing` <br> 
 - 👯 I’m looking to collaborate on `open sorce projects` <br> 
 - 📍 Actually livin' in `Franca-SP` <br>
 - 😄 Pronouns: `he / him` <br>
